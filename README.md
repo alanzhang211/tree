@@ -7,4 +7,3 @@
 + Tree：树的抽象。属性：root代表树的根。
 + TreeNode:树节点的抽象；属性：data-节点数据（一般为业务数据）；children：子节点。
 + AbstractNodeData：树节点数据的抽象。属性：nodeId-数据id；nodeName-节点名称；nodeType-节点类型；icon-节点图表；desc-数据描述。
-+ NodeTypeEnum：辅助类，树节点类型枚举。
