@@ -2,7 +2,7 @@
 一个简单的树目录组件实现。
 
 # 类图
-![类图](http://of7369y0i.bkt.clouddn.com//2017/05/%E5%BC%80%E6%BA%90%E9%82%A3%E4%BA%9B%E4%BA%8B/class.JPG)
+![类图](https://github.com/alanzhang211/blog-image/raw/master/2017/05/%E5%BC%80%E6%BA%90%E9%82%A3%E4%BA%9B%E4%BA%8B/class.JPG)
 
 + Tree：树的抽象。属性：root代表树的根。
 + TreeNode:树节点的抽象；属性：data-节点数据（一般为业务数据）；children：子节点。
